@@ -1,51 +1,51 @@
-# Hola 👋 Soy Sabrina Jeria Figueroa
+# 🌸 Sabrina Jeria Figueroa
 
-## Sobre mí
-Soy egresada de Informática Biomédica y cuento con formación como TENS e instrumentación quirúrgica.  
-Durante mi práctica profesional como IBM, participé en un proyecto relacionado con interoperabilidad en salud, donde apoyé en la validación de datos clínicos y pruebas básicas.  
-
-Actualmente me encuentro estudiando para ser Desarrolladora Full Stack Java en Generation Chile.
-
----
-
-## Formación
-- Informática Biomédica – Duoc UC (Egresada)  
-- Técnico en Enfermería e Instrumentación Quirúrgica (TENS)
+<p align="center">
+  <img src="https://img.shields.io/badge/Informática_Biomédica-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full_Stack_Java_(En_Formación)-EF6C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HealthTech-1565C0?style=for-the-badge"/>
+</p>
 
 ---
 
-## Qué estoy aprendiendo
-- HTML 
-- CSS
-- JavaScript
-- Git
-- GitHub 
+## 🧠 Sobre mí
+
+Soy egresada de **Informática Biomédica**, con experiencia en el área de salud digital.
+
+Participé en un proyecto de **interoperabilidad en salud**, apoyando en la validación de datos clínicos y pruebas básicas de sistemas.
+
+Actualmente me encuentro en formación como **Desarrolladora Full Stack Java en Generation Chile**, desarrollando habilidades en programación web tanto en frontend como backend.
+
+Me motiva el cruce entre **salud y tecnología**, con el objetivo de crear soluciones digitales con impacto real.
 
 ---
 
-## Intereses
-Desarrollarme en el área de programación y complementarlo con el área de la salud para crear soluciones que aporten a la comunidad.  
-También me interesa explorar otras áreas de la programación más allá del ámbito de la salud.
+## 🚀 Formación actual
+
+- Full Stack Java – Generation Chile (en formación)  
+- Desarrollo frontend y backend  
+- HTML, CSS, JavaScript  
+- Git y GitHub  
+- Lógica de programación  
 
 ---
 
-## Meta profesional
-Terminar este proceso de formación de manera exitosa y continuar especializándome en el área tecnológica.
+## 🎯 Enfoque profesional
+
+Mi objetivo es desarrollarme como **desarrolladora de software**, integrando mi base en salud con habilidades tecnológicas para construir soluciones útiles, escalables y con impacto social.
 
 ---
 
-## Actualmente
-- Formación como **Desarrolladora Full Stack Java** en Generation Chile  
-- Aprendiendo desarrollo frontend y backend  
-- Fortaleciendo lógica de programación  
-- Integrando desarrollo con sistemas de salud  
+## 🌱 Frase personal
+
+> "Estoy construyendo mi futuro paso a paso, sin rendirme."
 
 ---
 
-## Frase motivacional
-_"Estoy construyendo mi futuro paso a paso, sin rendirme."_
+## 📬 Contacto
 
----
-
-## 🔗 Contacto
-- [LinkedIn](https://www.linkedin.com/in/sabrina-jeria-figueroa/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sabrina-jeria-figueroa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar_Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
