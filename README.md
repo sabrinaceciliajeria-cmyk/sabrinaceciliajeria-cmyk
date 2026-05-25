@@ -1,51 +1,75 @@
+```md
 # 🌸 Sabrina Jeria Figueroa
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Informática_Biomédica-2E7D32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full_Stack_Java_(En_Formación)-EF6C00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HealthTech-1565C0?style=for-the-badge"/>
-</p>
+<div align="center">
+
+### Full Stack Java Developer  
+Backend • APIs • HealthTech
+
+</div>
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 About Me
 
-Soy egresada de **Informática Biomédica**, con experiencia en el área de salud digital.
-
-Participé en un proyecto de **interoperabilidad en salud**, apoyando en la validación de datos clínicos y pruebas básicas de sistemas.
-
-Actualmente me encuentro en formación como **Desarrolladora Full Stack Java en Generation Chile**, desarrollando habilidades en programación web tanto en frontend como backend.
-
-Me motiva el cruce entre **salud y tecnología**, con el objetivo de crear soluciones digitales con impacto real.
+- 🎓 Biomedical Informatics Graduate
+- 💻 Full Stack Java Developer in training
+- 🔬 Interested in HealthTech, APIs and interoperability
+- ⚙️ Focused on backend development and scalable solutions
+- 📊 Experience in clinical data validation and healthcare systems
 
 ---
 
-## 🚀 Formación actual
+## 🚀 Tech Stack
 
-- Full Stack Java – Generation Chile (en formación)  
-- Desarrollo frontend y backend  
-- HTML, CSS, JavaScript  
-- Git y GitHub  
-- Lógica de programación  
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
----
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🎯 Enfoque profesional
-
-Mi objetivo es desarrollarme como **desarrolladora de software**, integrando mi base en salud con habilidades tecnológicas para construir soluciones útiles, escalables y con impacto social.
-
----
-
-## 🌱 Frase personal
-
-> "Estoy construyendo mi futuro paso a paso, sin rendirme."
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📬 Contacto
+## 🌱 Currently
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sabrina-jeria-figueroa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar_Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- 📚 Full Stack Java Bootcamp — Generation Chile
+- 🛠️ Building Full Stack projects
+- ⚡ Improving backend and API development skills
+- 🔍 Exploring healthcare interoperability and digital health solutions
+
+---
+
+## 📌 Featured Projects
+
+### 🐾 PetVision
+Veterinary management system developed with frontend and backend architecture.
+
+### 🎮 Pokédex Retro
+Interactive web project inspired by retro aesthetics and API integration.
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn
+- 🌐 Portfolio
+- 📧 sabrinacecilia.jeria@gmail.com
+
+---
+
+<div align="center">
+
+✨ Building technology with purpose ✨
+
+</div>
+```
+
