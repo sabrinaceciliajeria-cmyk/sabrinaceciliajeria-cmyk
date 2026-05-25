@@ -1,75 +1,149 @@
-```md
-# 🌸 Sabrina Jeria Figueroa
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6564fe5-0a35-4b99-8ded-0f783ef95214" width="100%" />
+</p>
 
-<div align="center">
+<p align="center">
 
-### Full Stack Java Developer  
-Backend • APIs • HealthTech
+<img src="https://img.shields.io/github/followers/sabrinaceciliajeria-cmyk?style=for-the-badge&color=8B5CF6&labelColor=050510&logo=github&logoColor=white&label=Followers" />
 
-</div>
+<img src="https://img.shields.io/github/stars/sabrinaceciliajeria-cmyk/Pokedex-Retro?style=for-the-badge&color=A855F7&labelColor=050510&logo=github&logoColor=white&label=Stars" />
+
+<img src="https://img.shields.io/github/forks/sabrinaceciliajeria-cmyk/Pokedex-Retro?style=for-the-badge&color=6D28D9&labelColor=050510&logo=github&logoColor=white&label=Forks" />
+
+</p>
+
+<h3 align="center">
+Full Stack Developer • Backend Focused • HealthTech Background
+</h3>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+## About Me
+
+Desarrolladora Full Stack Java en formación con enfoque en desarrollo backend, APIs REST y construcción de aplicaciones web modernas.
+
+Egresada de Informática Biomédica, combinando conocimientos en tecnología y salud con experiencia en validación de datos clínicos, interoperabilidad y sistemas de información en salud.
+
+Actualmente fortaleciendo habilidades en frontend y backend mediante proyectos prácticos utilizando Java, SQL, HTML, CSS, Bootstrap y herramientas de control de versiones como Git y GitHub.
+
+Me interesa crear soluciones digitales funcionales, escalables y con identidad visual sólida, enfocadas en experiencias modernas y desarrollo de software con impacto real.
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sabrina-jeria-figueroa">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sabrinacecilia.jeria@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/sabrinaceciliajeria-cmyk">
+  <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+## Actualmente Construyendo
+
+⌬ Proyectos Full Stack con arquitectura frontend y backend  
+⌬ APIs REST utilizando Java y SQL  
+⌬ Interfaces web modernas y responsive  
+⌬ Mejores prácticas de desarrollo y estructura de proyectos  
+⌬ Aplicaciones enfocadas en rendimiento, escalabilidad y experiencia de usuario  
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+## Proyectos Destacados
+
+### ✦ PetVision
+
+Sistema de gestión veterinaria desarrollado con arquitectura frontend y backend enfocado en organización clínica y experiencia de usuario moderna.
+
+<p align="left">
+
+<a href="LINK_FRONTEND">
+  <img src="https://img.shields.io/badge/Frontend-A855F7?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+
+<a href="LINK_BACKEND">
+  <img src="https://img.shields.io/badge/Backend-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
-## 🧠 About Me
+### ✦ Pokédex Retro
 
-- 🎓 Biomedical Informatics Graduate
-- 💻 Full Stack Java Developer in training
-- 🔬 Interested in HealthTech, APIs and interoperability
-- ⚙️ Focused on backend development and scalable solutions
-- 📊 Experience in clinical data validation and healthcare systems
+Aplicación inspirada en la estética retro utilizando APIs y diseño responsive.
 
----
+<p align="left">
 
-## 🚀 Tech Stack
+<a href="LINK_POKEDEX">
+  <img src="https://img.shields.io/badge/Repositorio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+## Tech Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
 
----
+### Backend
 
-## 🌱 Currently
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
 
-- 📚 Full Stack Java Bootcamp — Generation Chile
-- 🛠️ Building Full Stack projects
-- ⚡ Improving backend and API development skills
-- 🔍 Exploring healthcare interoperability and digital health solutions
+### Base de Datos
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-## 📌 Featured Projects
+### Herramientas
 
-### 🐾 PetVision
-Veterinary management system developed with frontend and backend architecture.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
-### 🎮 Pokédex Retro
-Interactive web project inspired by retro aesthetics and API integration.
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
----
+<h2 align="center">GitHub Stats</h2>
 
-## 📫 Contact
+<p align="center">
 
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 📧 sabrinacecilia.jeria@gmail.com
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabrinaceciliajeria-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=8B5CF6&icon_color=A855F7&text_color=E9D5FF" />
 
----
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabrinaceciliajeria-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=8B5CF6&text_color=E9D5FF" />
 
-<div align="center">
+</p>
 
-✨ Building technology with purpose ✨
-
-</div>
-```
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=120&section=footer" />
+</p>
